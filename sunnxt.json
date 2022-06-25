@@ -1,0 +1,196 @@
+{
+    "SunNxt": [
+        {
+            "id": "14020",
+            "name": "SunTVHD",
+            "quality": "1200000",
+            "lang": "Tamil"
+        },
+        {
+            "id": "9016",
+            "name": "SunTV",
+            "quality": "1499968",
+            "lang": "Tamil"
+        },
+        {
+            "id": "26566",
+            "name": "KTVHD",
+            "quality": "5000000",
+            "lang": "Tamil"
+        },
+        {
+            "id": "32138",
+            "name": "KTV",
+            "quality": "1499968",
+            "lang": "Tamil"
+        },
+        {
+            "id": "9013",
+            "name": "SunMusicHD",
+            "quality": "5000000",
+            "lang": "Tamil"
+        },
+        {
+            "id": "9025",
+            "name": "SunMusic",
+            "quality": "1499968",
+            "lang": "Tamil"
+        },
+        {
+            "id": "38926",
+            "name": "SunNews",
+            "quality": "1499968",
+            "lang": "Tamil"
+        },
+        {
+            "id": "9023",
+            "name": "AdithyaTV",
+            "quality": "1499968",
+            "lang": "Tamil"
+        },
+        {
+            "id": "26569",
+            "name": "SunLife",
+            "quality": "1499968",
+            "lang": "Tamil"
+        },
+        {
+            "id": "26567",
+            "name": "ChuttiTV",
+            "quality": "1499968",
+            "lang": "Tamil"
+        },
+        {
+            "id": "14019",
+            "name": "GeminiTVHD",
+            "quality": "5000000",
+            "lang": "Telugu"
+        },
+        {
+            "id": "9017",
+            "name": "GeminiTV",
+            "quality": "1499968",
+            "lang": "Telugu"
+        },
+        {
+            "id": "26570",
+            "name": "GeminiMoviesHD",
+            "quality": "5000000",
+            "lang": "Telugu"
+        },
+        {
+            "id": "9015",
+            "name": "GeminiMovies",
+            "quality": "1499968",
+            "lang": "Telugu"
+        },
+        {
+            "id": "26568",
+            "name": "GeminiMusicHD",
+            "quality": "5000000",
+            "lang": "Telugu"
+        },
+        {
+            "id": "9026",
+            "name": "GeminiMusic",
+            "quality": "1499968",
+            "lang": "Telugu"
+        },
+        {
+            "id": "9027",
+            "name": "GeminiComedy",
+            "quality": "1499968",
+            "lang": "Telugu"
+        },
+        {
+            "id": "26572",
+            "name": "GeminiLife",
+            "quality": "1499968",
+            "lang": "Telugu"
+        },
+        {
+            "id": "26571",
+            "name": "KushiTV",
+            "quality": "1499968",
+            "lang": "Telugu"
+        },
+        {
+            "id": "26574",
+            "name": "SuryaTVHD",
+            "quality": "5000000",
+            "lang": "Kannada"
+        },
+        {
+            "id": "9018",
+            "name": "SuryaTV",
+            "quality": "1499968",
+            "lang": "Kannada"
+        },
+        {
+            "id": "9019",
+            "name": "SuryaMovies",
+            "quality": "1499968",
+            "lang": "Kannada"
+        },
+        {
+            "id": "26575",
+            "name": "SuryaMusic",
+            "quality": "1499968",
+            "lang": "Kannada"
+        },
+        {
+            "id": "30835",
+            "name": "SuryaComedy",
+            "quality": "1499968",
+            "lang": "Kannada"
+        },
+        {
+            "id": "26577",
+            "name": "ChintuTV",
+            "quality": "1499968",
+            "lang": "Kannada"
+        },
+        {
+            "id": "30846",
+            "name": "UdayaTVHD",
+            "quality": "5000000",
+            "lang": "Malayalam"
+        },
+        {
+            "id": "9029",
+            "name": "UdayaTV",
+            "quality": "1499968",
+            "lang": "Malayalam"
+        },
+        {
+            "id": "26576",
+            "name": "UdayaMovies",
+            "quality": "1499968",
+            "lang": "Malayalam"
+        },
+        {
+            "id": "9014",
+            "name": "UdayaComedy",
+            "quality": "1499968",
+            "lang": "Malayalam"
+        },
+        {
+            "id": "9022",
+            "name": "UdayaMusic",
+            "quality": "1499968",
+            "lang": "Malayalam"
+        },
+        {
+            "id": "26573",
+            "name": "KochuTV",
+            "quality": "1499968",
+            "lang": "Malayalam"
+        },
+        {
+            "id": "75117",
+            "name": "SunBangla",
+            "quality": "1499968",
+            "lang": "Bangla"
+        }
+    ]
+}
